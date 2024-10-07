@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Grass
+  - Human
+  - Tick
+  - Ground
+  - WalkableGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1380735909
+    locked: 0
+  - name: Foot
+    uniqueID: 376139951
+    locked: 0
+  - name: Ground
+    uniqueID: 1593283177
+    locked: 0
+  - name: Tick & Grass
+    uniqueID: 4247717325
+    locked: 0
+  - name: Pincers
+    uniqueID: 1896650005
+    locked: 0
+  - name: UI
+    uniqueID: 1564655013
+    locked: 0
